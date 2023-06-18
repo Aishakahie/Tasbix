@@ -1,0 +1,21 @@
+.main{
+    padding-top: 18px;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: rgb(175, 175, 229);
+    height: 280px;
+    width: 280px;
+
+}
+h2{
+    margin-bottom: 30px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+span{
+    font-size: 60PX;
+}
